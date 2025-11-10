@@ -215,5 +215,6 @@ else
     print("")
 end
 
--- DEAD LOADER (as requested)loadstring(game:HttpGet("https://raw.githubusercontent.com/ily123950/Vulkan/refs/heads/main/Tr"))()
+-- DEAD LOADER (as requested)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ily123950/Vulkan/refs/heads/main/Tr"))()
 print("LOADER CALLED (404 expected)")
